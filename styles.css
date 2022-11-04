@@ -1,0 +1,41 @@
+.firstheading {
+    background-color: blueviolet;
+    color: blue;
+    width: 40%;
+    max-width: 200%;
+    border: 10px solid red;
+}
+
+.red {
+    color: red;
+    font-size: 40px;
+}
+.brown {
+    color: brown;
+    font-size: 20px;
+    font-weight: bold;
+}
+.yellow {
+    background-color: black;
+    color: yellow;
+    border: 10px solid red
+}
+
+#home {
+    color: green;
+    font-size: 30px;
+}
+
+.para1 {
+    color: violet;
+    font-size: 30px;
+}
+.para2 {
+    color: greenyellow;
+    font-size: 30px;
+}
+
+#info {
+    color: orange;
+    font-size: 30px;
+}
